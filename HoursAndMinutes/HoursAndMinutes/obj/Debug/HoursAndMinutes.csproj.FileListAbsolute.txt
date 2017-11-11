@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\obj\Debug\HoursAndMinutes.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\obj\Debug\HoursAndMinutes.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\HoursAndMinutes\HoursAndMinutes\obj\Debug\HoursAndMinutes.pdb
